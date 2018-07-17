@@ -1,0 +1,91 @@
+{
+  "uid" : "cb1a895ce698007e",
+  "name" : "testOpenGame1AndCheckResult",
+  "fullName" : "ru.SuperMath.TestOpenGameAndCheckResult.testOpenGame1AndCheckResult",
+  "historyId" : "19f55644561f325a4aca9d5b6dfbab68",
+  "time" : {
+    "start" : 1531833830946,
+    "stop" : 1531833835036,
+    "duration" : 4090
+  },
+  "status" : "passed",
+  "statusDetails" : {
+    "flaky" : false
+  },
+  "beforeStages" : [ {
+    "name" : "setUpFotTest",
+    "time" : {
+      "start" : 1531833829882,
+      "stop" : 1531833830792,
+      "duration" : 910
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "setUpForClass",
+    "time" : {
+      "start" : 1531833826746,
+      "stop" : 1531833829875,
+      "duration" : 3129
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1531833851994,
+      "stop" : 1531833853147,
+      "duration" : 1153
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "ru.SuperMath.TestOpenGameAndCheckResult"
+  }, {
+    "name" : "testClass",
+    "value" : "ru.SuperMath.TestOpenGameAndCheckResult"
+  }, {
+    "name" : "testMethod",
+    "value" : "testOpenGame1AndCheckResult"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Surefire suite"
+  }, {
+    "name" : "suite",
+    "value" : "Surefire test"
+  }, {
+    "name" : "subSuite",
+    "value" : "ru.SuperMath.TestOpenGameAndCheckResult"
+  }, {
+    "name" : "host",
+    "value" : "SPBNB-PRC1789"
+  }, {
+    "name" : "thread",
+    "value" : "2020@SPBNB-PRC1789.main(1)"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "extra" : {
+    "severity" : "normal",
+    "categories" : [ ]
+  }
+}

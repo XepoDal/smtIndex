@@ -1,0 +1,95 @@
+{
+  "statistic" : {
+    "failed" : 0,
+    "broken" : 0,
+    "skipped" : 0,
+    "passed" : 5,
+    "unknown" : 0,
+    "total" : 5
+  },
+  "time" : {
+    "minDuration" : 3986,
+    "maxDuration" : 4235,
+    "sumDuration" : 20700,
+    "start" : 1531833830946,
+    "stop" : 1531833851875,
+    "duration" : 20929
+  },
+  "children" : [ {
+    "uid" : "f6b952c5456f2308",
+    "name" : "ru.SuperMath.TestOpenGameAndCheckResult",
+    "time" : {
+      "minDuration" : 3986,
+      "maxDuration" : 4235,
+      "sumDuration" : 20700,
+      "start" : 1531833830946,
+      "stop" : 1531833851875,
+      "duration" : 20929
+    },
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 5,
+      "unknown" : 0,
+      "total" : 5
+    },
+    "type" : "TestGroupNode",
+    "children" : [ {
+      "uid" : "cb1a895ce698007e",
+      "name" : "testOpenGame1AndCheckResult",
+      "time" : {
+        "start" : 1531833830946,
+        "stop" : 1531833835036,
+        "duration" : 4090
+      },
+      "status" : "passed",
+      "flaky" : false,
+      "type" : "TestCaseNode"
+    }, {
+      "uid" : "abe5ff7b911bf2b8",
+      "name" : "testOpenGame2AndCheckResult",
+      "time" : {
+        "start" : 1531833835229,
+        "stop" : 1531833839215,
+        "duration" : 3986
+      },
+      "status" : "passed",
+      "flaky" : false,
+      "type" : "TestCaseNode"
+    }, {
+      "uid" : "ea8da77c1aa92455",
+      "name" : "testOpenGame4AndCheckResult",
+      "time" : {
+        "start" : 1531833843460,
+        "stop" : 1531833847695,
+        "duration" : 4235
+      },
+      "status" : "passed",
+      "flaky" : false,
+      "type" : "TestCaseNode"
+    }, {
+      "uid" : "70f693d785df740e",
+      "name" : "testOpenGame5AndCheckResult",
+      "time" : {
+        "start" : 1531833847706,
+        "stop" : 1531833851875,
+        "duration" : 4169
+      },
+      "status" : "passed",
+      "flaky" : false,
+      "type" : "TestCaseNode"
+    }, {
+      "uid" : "e89058e5e6a594f1",
+      "name" : "testOpenGame3AndCheckResult",
+      "time" : {
+        "start" : 1531833839228,
+        "stop" : 1531833843448,
+        "duration" : 4220
+      },
+      "status" : "passed",
+      "flaky" : false,
+      "type" : "TestCaseNode"
+    } ]
+  } ]
+}
